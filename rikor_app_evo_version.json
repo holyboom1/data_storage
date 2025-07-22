@@ -1,8 +1,10 @@
 {
-  "stableVersion" : "0.0.1+9",
- "latestVersion" : "0.0.2+10",
-  "oldestSupportedVersion" : "0.0.1+10",
-  "otaUpdateVersion" : "0.0.1+10",
-   "runtimeUpdateVersion"  :"0.0.1+10",
-  "isNeedToForceRestart" : false
+      "ruStoreVersion": "0.0.1+9",
+      "googlePlayVersion": "0.0.1+9",
+      "latestApkUrl": "https://internal1.4q.sk/flutter_hello_world.apk",
+      "latestChecksum": "d6da28451a1e15cf7a75f2c3f151befad3b80ad0bb232ab15c20897e54f21478",
+      "oldestSupportedVersion": "0.0.1+9",
+      "otaUpdateVersion": "0.0.1+10",
+      "runtimeUpdateVersion": "0.0.1+9",
+      "isNeedToForceRestart": false
 }
