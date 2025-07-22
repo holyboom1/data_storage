@@ -1,8 +1,8 @@
 {
       "ruStoreVersion": "0.0.1+9",
       "googlePlayVersion": "0.0.1+9",
-      "latestApkUrl": "https://internal1.4q.sk/flutter_hello_world.apk",
-      "latestChecksum": "d6da28451a1e15cf7a75f2c3f151befad3b80ad0bb232ab15c20897e54f21478",
+      "latestApkUrl": "https://raw.githubusercontent.com/holyboom1/data_storage/refs/heads/main/app-dev-release.apk",
+      "latestChecksum": "7e3f84330242d3c1af711c0e727e08d84261d3a2f454aa1da1249afdf9b2d553",
       "oldestSupportedVersion": "0.0.1+9",
       "otaUpdateVersion": "0.0.1+10",
       "runtimeUpdateVersion": "0.0.1+9",
