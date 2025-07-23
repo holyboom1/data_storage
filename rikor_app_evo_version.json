@@ -3,6 +3,8 @@
       "googlePlayVersion": "0.0.1+9",
       "latestApkUrl": "https://raw.githubusercontent.com/holyboom1/data_storage/refs/heads/main/app-dev-release.apk",
       "latestChecksum": "7e3f84330242d3c1af711c0e727e08d84261d3a2f454aa1da1249afdf9b2d553",
+      "sha256" : "9E849123572DE2132AF3AF58E814092D8423CD52011E263EF98A4342D9A5A35E",
+      "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
       "oldestSupportedVersion": "0.0.1+9",
       "otaUpdateVersion": "0.0.1+10",
       "runtimeUpdateVersion": "0.0.1+9",
