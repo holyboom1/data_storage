@@ -1,8 +1,8 @@
 {
       "ruStoreVersion": "0.0.0+0",
       "googlePlayVersion": "0.0.0+0",
-      "latestApkUrl": "https://raw.githubusercontent.com/holyboom1/data_storage/refs/heads/main/release/dev/app-dev-0.0.2.apk",
-      "latestChecksum": "1255a8b06b32cc11fc01662f39f30a2e85536e6be2b71bcf19e5421f7d7d9332",
+      "latestApkUrl": "https://raw.githubusercontent.com/holyboom1/data_storage/refs/heads/main/release/dev/app-dev-0.0.3.apk",
+      "latestChecksum": "49f85fb9c7568a1397abb3944c674eb1244960a673be8ea2c1840087a51ffec8",
       "sha256" : "9E849123572DE2132AF3AF58E814092D8423CD52011E263EF98A4342D9A5A35E",
       "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
       "oldestSupportedVersion": "0.0.3+11",
