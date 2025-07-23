@@ -8,5 +8,5 @@
       "oldestSupportedVersion": "0.0.3+11",
       "otaUpdateVersion": "0.0.3+11",
       "runtimeUpdateVersion": "0.0.1+9",
-      "isNeedToForceRestart": false
+      "isReleased": false
 }
