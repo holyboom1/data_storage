@@ -2,7 +2,7 @@
       "ruStoreVersion": "0.0.0+0",
       "googlePlayVersion": "0.0.0+0",
       "latestApkUrl": "https://s3.cloud.ru/eva-builds-bucket/app-dev-release-0.0.4%2822%29.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=c4a06b14-5e99-4337-a067-54bba8e6b69c%3Af8b696b5ebb451f8c16921a6a2c01b68%2F20250905%2Fru-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250905T092144Z&X-Amz-Expires=604800&X-Amz-Signature=6a89226b4b671e03baecc691c0d175e89b0eeaade4cbbc4a908923f8117068af&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
-      "latestChecksum": "9d5f6bdbf72ac90c31b80cb48f6f07c8d4a66084795b9e6b32a05fdc3de9f288",
+      "latestChecksum": "50b4d23459e5834ad7b85fa64bcfa877a6512fce405b5b40d4f3b589e2c87e02",
       "sha256" : "9E849123572DE2132AF3AF58E814092D8423CD52011E263EF98A4342D9A5A35E",
       "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
       "oldestSupportedVersion": "0.0.4+22",
