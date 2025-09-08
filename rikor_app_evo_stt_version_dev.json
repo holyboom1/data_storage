@@ -7,6 +7,6 @@
       "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
       "oldestSupportedVersion": "1.3.0+0",
       "otaUpdateVersion": "1.3.0+0",
-      "runtimeUpdateVersion": "0.0.1+9",
+      "runtimeUpdateVersion": "0.0.0+0",
       "isReleased": true
 }
