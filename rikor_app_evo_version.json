@@ -5,8 +5,8 @@
       "latestChecksum": "9d5f6bdbf72ac90c31b80cb48f6f07c8d4a66084795b9e6b32a05fdc3de9f288",
       "sha256" : "9E849123572DE2132AF3AF58E814092D8423CD52011E263EF98A4342D9A5A35E",
       "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
-      "oldestSupportedVersion": "0.0.3+15",
-      "otaUpdateVersion": "0.0.3+15",
+      "oldestSupportedVersion": "0.0.5+23",
+      "otaUpdateVersion": "0.0.5+23",
       "runtimeUpdateVersion": "0.0.1+9",
       "isReleased": false
 }
