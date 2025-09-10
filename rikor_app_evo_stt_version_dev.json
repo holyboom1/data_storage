@@ -1,8 +1,8 @@
 {
       "ruStoreVersion": "0.0.0+0",
       "googlePlayVersion": "0.0.0+0",
-      "latestApkUrl": "https://s3.cloud.ru/eva-builds-bucket/app-dev-release-0.0.6%2824%29.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=c4a06b14-5e99-4337-a067-54bba8e6b69c%3Af8b696b5ebb451f8c16921a6a2c01b68%2F20250908%2Fru-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250908T110753Z&X-Amz-Expires=604800&X-Amz-Signature=3ca9244fbdc8fcd28da0b792217047b2fb4e3af6fcb1571e3fc01eeff66eadaf&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
-      "latestChecksum": "6a8f270d389ef730ea90ce537110e7a32bf963f42524792d928303359afee53e",
+      "latestApkUrl": "https://s3.cloud.ru/eva-builds-bucket/app-debug-stt-1.2.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=c4a06b14-5e99-4337-a067-54bba8e6b69c%3Af8b696b5ebb451f8c16921a6a2c01b68%2F20250910%2Fru-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250910T064015Z&X-Amz-Expires=604800&X-Amz-Signature=2c546a5d9f1fa43dd1d634b63779117913410357a31946462399334ffa370786&X-Amz-SignedHeaders=host&response-content-disposition=attachment&x-id=GetObject",
+      "latestChecksum": "2b47083222b2b6a57091d5e4b6d174fdfd927ffbe7d21382f560ef0940cdc99b",
       "sha256" : "9E849123572DE2132AF3AF58E814092D8423CD52011E263EF98A4342D9A5A35E",
       "sha1" : "D33326BC788F86C00FD666CE4514B3C6C3BD7A52",
       "oldestSupportedVersion": "1.2.0+0",
